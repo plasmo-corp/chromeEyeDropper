@@ -21,7 +21,7 @@
     "url": "https://github.com/kepi/chromeEyeDropper.git"
   },
   "devDependencies": {
-    "@types/chrome": "0.0.179",
+    "@types/chrome": "0.0.218",
     "@types/jest": "^27.4.1",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
